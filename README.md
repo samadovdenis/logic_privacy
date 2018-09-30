@@ -1,6 +1,6 @@
 This policy is valid for all games our company develops on Android and IOS.
 
-1) Our applications and games do NOT collect any user or device data.
+1) Our applications and games collect Admob registration ID for providing notifications to user and we DON'T collect any other user or device data.
 
 2) 100% KID Safe. We don't show advertisements inside some our apps.
 
